@@ -1,6 +1,7 @@
 {
-    "name" : "com.basis.tests",
-    "displayName" : "Basis Tests",
-    "version" : "0.0.1",
-    "description" : "Tests and examples for the basis framework"
+  "name": "com.basis.tests",
+  "displayName": "Basis Tests",
+  "version": "0.0.1",
+  "description": "Tests and examples for the basis framework",
+  "_fingerprint": "4485499e3025a6d7c4136687e94700a2952550dc"
 }
